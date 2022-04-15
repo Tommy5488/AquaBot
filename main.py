@@ -184,4 +184,4 @@ async def owner(ctx):
 
  #-----TOKEN BOT----#
 
-bot.run("OTUzNjk5NjAxNzg4MDYzNzc0.YjIX9w.HAufPFUe2eabYK87mTffgNxJzTA")
+bot.run("METTRE LE TOKEN DU BOT")
